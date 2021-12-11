@@ -4,15 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "6a4920eaa8aef78a5da46c71944b3493",
-"index.html": "987e1dad33b2d69f569759b6c6cb84ee",
+"index.html": "30a148a8d69307c34df4556c7da9b1a6",
 "/": "73be3445adc8d49407f4b36e21d3236c",
-"main.dart.js": "f8b3cad74c4c8e2e385b4fc59472b7d5",
+"main.dart.js": "0192faa473a04611a41fbeb60d73a9f9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "44984f605d6a0f95d8367cce2c2265cb",
-"assets/AssetManifest.json": "b280248ff6c9a193da1a628c878a0f39",
-"assets/NOTICES": "fe829b076caac13a6825e72438a8dda6",
+"assets/AssetManifest.json": "099f783138d753d42a5d5ad02cd5f098",
+"assets/NOTICES": "9c3aa1b52aa43b62926bb0a68aed1a0c",
 "assets/FontManifest.json": "5eb4cf9e42dd05f4e9aa59b108f3c4e5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_tex/js/katex/index.html": "f0b07d87f116752c2c8de2882f9db878",
@@ -233,6 +233,10 @@ const RESOURCES = {
 "assets/packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/Gyre-Pagella/fontdata-extra.js": "1f8deeefc60655afe9fa112bd0a0713d",
 "assets/packages/flutter_tex/js/flutter_tex.css": "062a3279da48d0913eeeeb0d2266e26f",
 "assets/packages/flutter_tex/js/flutter_tex.js": "9402d83f805bfc891b50ffd62c918def",
+"assets/lib/ui/flutterTutorial/rive/learn.dart": "ff99ece8ece1ff70576f57a1ea64d1a5",
+"assets/lib/ui/flutterTutorial/rive/skills.riv": "ef57c58346dcd084eebbc777ccbd0c53",
+"assets/lib/ui/flutterTutorial/rive/rive.dart": "0b55a3dafae09d23011057fb9ad57b76",
+"assets/lib/ui/flutterTutorial/rive/code.dart": "4d15d9b9def319f83940722e9dc45ac5",
 "assets/lib/ui/img/tutorial/flutter/flutter.png": "57838d52c318faff743130c3fcfae0c6",
 "assets/lib/ui/img/tutorial/flutter/formExample.png": "067f1a83d722c4cd0b5ab74666c37d09",
 "assets/lib/ui/img/tutorial/flutter/fontExample.png": "7e93cc7aa610c0ddfea87d2727625ca0",
@@ -246,7 +250,7 @@ const RESOURCES = {
 "assets/lib/ui/img/appPublished/factec.png": "fe375af177934b37ef6905bb80082331",
 "assets/lib/ui/img/appPublished/hablaAndrea.png": "5f4f248ae0be2046f160291b464135c7",
 "assets/lib/ui/img/appPublished/mubicate.png": "c52964bc38f0855433afd7e7b54544b4",
-"assets/lib/ui/img/icon/icon_downloaded.ttf": "67a1fe109dee1f9d36fd53adefc84b79",
+"assets/lib/ui/img/icon/icon_downloaded.ttf": "7eedae28285fd477ca834d131055439c",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
 };
 
