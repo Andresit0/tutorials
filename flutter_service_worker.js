@@ -3,16 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "6a4920eaa8aef78a5da46c71944b3493",
-"index.html": "dc2a4a5ed3f6e0fdba9f10f0f63ce8aa",
+  "version.json": "6e1873799c14437f0f6d796bec850e16",
+"index.html": "846c01c25fdb75ad5e4b0d250692aed2",
 "/": "73be3445adc8d49407f4b36e21d3236c",
-"main.dart.js": "0192faa473a04611a41fbeb60d73a9f9",
+"main.dart.js": "732cf4108bf99b352464507d4a4a3f4b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "44984f605d6a0f95d8367cce2c2265cb",
-"assets/AssetManifest.json": "099f783138d753d42a5d5ad02cd5f098",
-"assets/NOTICES": "9c3aa1b52aa43b62926bb0a68aed1a0c",
+"assets/AssetManifest.json": "b21e32ab5d622550a8ed840875c8031f",
+"assets/NOTICES": "45d87c02993fa0aafff1ef699b047422",
 "assets/FontManifest.json": "5eb4cf9e42dd05f4e9aa59b108f3c4e5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_tex/js/katex/index.html": "f0b07d87f116752c2c8de2882f9db878",
@@ -232,11 +232,9 @@ const RESOURCES = {
 "assets/packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Main/Regular/Main.js": "18979444cbc184de17d8211badbde33a",
 "assets/packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/Gyre-Pagella/fontdata-extra.js": "1f8deeefc60655afe9fa112bd0a0713d",
 "assets/packages/flutter_tex/js/flutter_tex.css": "062a3279da48d0913eeeeb0d2266e26f",
-"assets/packages/flutter_tex/js/flutter_tex.js": "9402d83f805bfc891b50ffd62c918def",
-"assets/lib/ui/flutterTutorial/rive/learn.dart": "ff99ece8ece1ff70576f57a1ea64d1a5",
+"assets/packages/flutter_tex/js/flutter_tex.js": "a7d061c7a474813670d7596be35e6968",
 "assets/lib/ui/flutterTutorial/rive/skills.riv": "ef57c58346dcd084eebbc777ccbd0c53",
-"assets/lib/ui/flutterTutorial/rive/rive.dart": "0b55a3dafae09d23011057fb9ad57b76",
-"assets/lib/ui/flutterTutorial/rive/code.dart": "4d15d9b9def319f83940722e9dc45ac5",
+"assets/lib/ui/img/tutorial/chialisp/chialisp.png": "964ce1e4ad843e744e75dd95a966380e",
 "assets/lib/ui/img/tutorial/flutter/flutter.png": "57838d52c318faff743130c3fcfae0c6",
 "assets/lib/ui/img/tutorial/flutter/formExample.png": "067f1a83d722c4cd0b5ab74666c37d09",
 "assets/lib/ui/img/tutorial/flutter/fontExample.png": "7e93cc7aa610c0ddfea87d2727625ca0",
@@ -246,12 +244,18 @@ const RESOURCES = {
 "assets/lib/ui/img/tutorial/flutter/btnExample.png": "7f73429eee0433ea7b13ce86c17fae22",
 "assets/lib/ui/img/tutorial/flutter/diagExample.png": "d946d4b3407c03ddafbd41de5d89d515",
 "assets/lib/ui/img/tutorial/postgres/postgres.png": "21eea274812d82ae46cd4f9e938515f0",
+"assets/lib/ui/img/tutorial/git/git.png": "f62f6e16d08a95a19713f9fbbdb2c568",
 "assets/lib/ui/img/curriculum/andres.jpg": "2d960c77990b7d0c307342449b677c71",
 "assets/lib/ui/img/appPublished/factec.png": "fe375af177934b37ef6905bb80082331",
 "assets/lib/ui/img/appPublished/hablaAndrea.png": "5f4f248ae0be2046f160291b464135c7",
 "assets/lib/ui/img/appPublished/mubicate.png": "c52964bc38f0855433afd7e7b54544b4",
-"assets/lib/ui/img/icon/icon_downloaded.ttf": "7eedae28285fd477ca834d131055439c",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
+"assets/lib/ui/img/icon/icon_downloaded.ttf": "f9964e5f5b4643ca68ef7587a9e8a463",
+"assets/lib/ui/chialispTutorial/basicInformation/chialisp.pdf": "da5e9f403c6586d4044c1234e2cf862b",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
