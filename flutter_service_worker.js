@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "6e1873799c14437f0f6d796bec850e16",
-"index.html": "6ac5042a9ae39da8c682bfee94fb3b73",
+"index.html": "494780ffc0d8b4279f09cabc96c76177",
 "/": "73be3445adc8d49407f4b36e21d3236c",
-"main.dart.js": "e9bfca0c7ded3a33b0df70b6e71407af",
+"main.dart.js": "590514628a7e0cc02de5e97a88c73fa6",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -233,7 +233,7 @@ const RESOURCES = {
 "assets/packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/Gyre-Pagella/fontdata-extra.js": "1f8deeefc60655afe9fa112bd0a0713d",
 "assets/packages/flutter_tex/js/flutter_tex.css": "062a3279da48d0913eeeeb0d2266e26f",
 "assets/packages/flutter_tex/js/flutter_tex.js": "a7d061c7a474813670d7596be35e6968",
-"assets/lib/ui/postgresTutorial/tutorial/tutorialAlgebra/dbRelationalAlgebra.pdf": "6383ec278da6ccd638f4593e8bd7a1b6",
+"assets/lib/ui/postgresTutorial/tutorial/tutorialAlgebra/dbRelationalAlgebra.pdf": "18e3f0a47f963de79a564b52aa7eee12",
 "assets/lib/ui/gitTutorial/tutorial/tutorialGit/git.pdf": "19d4f21609ba91e5922f4d4bec04944f",
 "assets/lib/ui/flutterTutorial/rive/skills.riv": "ef57c58346dcd084eebbc777ccbd0c53",
 "assets/lib/ui/img/tutorial/chialisp/chialisp.png": "964ce1e4ad843e744e75dd95a966380e",

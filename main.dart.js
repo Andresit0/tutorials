@@ -116461,7 +116461,7 @@ p=m.$0()*8}else{s=m.$0()*55
 r=m.$0()*25
 q=m.$0()*8
 p=m.$0()*8}m=t.p
-return A.er(A.eN(!1,A.d(o,A.m6("Postgres",!1,A.O2(n)===B.ah?B.t:B.h,30,B.A),B.b,o,o,o,o,o,o,o,o,o,1/0),o),A.d(o,A.cq(A.b1(A.b([A.d(B.j,A.m6("Tutorial",!1,B.h,p,B.A),B.b,o,o,o,o,o,o,o,o,o,1/0),new A.O(new A.p(0,15,0,0),o,o),A.d(B.a_,A.et(A.b([A.d(o,A.dx(B.w,n,15,1,n,A.q("Algebra",o,o,o,A.fw(A.u(o,o,B.h,o,o,o,o,o,o,o,o,q,o,B.q,o,o,!0,o,o,o,o,o,o,o,o)),B.A,o),new A.alD(b)),B.b,o,o,o,o,r,o,o,o,o,s)],m),20,20),B.b,o,o,o,o,o,o,o,o,o,o)],m),B.bM,o,B.p,B.m),o,o,B.B),B.b,o,o,o,o,o,o,new A.p(10,10,10,10),o,o,o),o)}}
+return A.er(A.eN(!1,A.d(o,A.m6("Postgres",!1,A.O2(n)===B.ah?B.t:B.h,30,B.A),B.b,o,o,o,o,o,o,o,o,o,1/0),o),A.d(o,A.cq(A.b1(A.b([A.d(B.j,A.m6("Tutorial",!1,B.h,p,B.A),B.b,o,o,o,o,o,o,o,o,o,1/0),new A.O(new A.p(0,15,0,0),o,o),A.d(B.a_,A.et(A.b([A.d(o,A.dx(B.w,n,15,1,n,A.q("Optimization",o,o,o,A.fw(A.u(o,o,B.h,o,o,o,o,o,o,o,o,q,o,B.q,o,o,!0,o,o,o,o,o,o,o,o)),B.A,o),new A.alD(b)),B.b,o,o,o,o,r,o,o,o,o,s)],m),20,20),B.b,o,o,o,o,o,o,o,o,o,o)],m),B.bM,o,B.p,B.m),o,o,B.B),B.b,o,o,o,o,o,o,new A.p(10,10,10,10),o,o,o),o)}}
 A.alE.prototype={
 $0(){var s=this.a,r=this.b
 if(s>r)s=r
