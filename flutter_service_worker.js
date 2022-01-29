@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "6e1873799c14437f0f6d796bec850e16",
-"index.html": "d66379169e19b0e1387255e58ed1128c",
+"index.html": "5a0824df8e840ac81d913876b17b5d7c",
 "/": "73be3445adc8d49407f4b36e21d3236c",
-"main.dart.js": "8972c814d415d594b67ca71bd1ef0a4d",
+"main.dart.js": "c4c2b7355fd64e67a292284a2dedf384",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -245,7 +245,7 @@ const RESOURCES = {
 "assets/lib/ui/img/tutorial/flutter/colorExample.png": "121772764a9416e9bc0983082239fcfc",
 "assets/lib/ui/img/tutorial/flutter/imgSendApache.png": "190cda2fbaa8a2f12abeb46a1a854eaa",
 "assets/lib/ui/img/tutorial/flutter/latexExample.jpeg": "bddff97e19ac063fb1700e92c6b43405",
-"assets/lib/ui/img/tutorial/flutter/btnExample.png": "7f73429eee0433ea7b13ce86c17fae22",
+"assets/lib/ui/img/tutorial/flutter/btnExample.png": "3f52c6b38619754dc66fd8a82ee5a3d0",
 "assets/lib/ui/img/tutorial/flutter/diagExample.png": "d946d4b3407c03ddafbd41de5d89d515",
 "assets/lib/ui/img/tutorial/postgres/postgres.png": "21eea274812d82ae46cd4f9e938515f0",
 "assets/lib/ui/img/tutorial/git/git.png": "f62f6e16d08a95a19713f9fbbdb2c568",
